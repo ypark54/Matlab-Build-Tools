@@ -1,3 +1,48 @@
 [submodule "R2023b"]
 	path = R2023b
 	url = git@github.com:ypark54/R2023b.git
+[submodule "R2023a"]
+	path = R2023a
+	url = git@github.com:ypark54/R2023a.git
+[submodule "R2022b"]
+	path = R2022b
+	url = git@github.com:ypark54/R2022b.git
+[submodule "R2022a"]
+	path = R2022a
+	url = git@github.com:ypark54/R2022a.git
+[submodule "R2021b"]
+	path = R2021b
+	url = git@github.com:ypark54/R2021b.git
+[submodule "R2021a"]
+	path = R2021a
+	url = git@github.com:ypark54/R2021a.git
+[submodule "R2020b"]
+	path = R2020b
+	url = git@github.com:ypark54/R2020b.git
+[submodule "R2020a"]
+	path = R2020a
+	url = git@github.com:ypark54/R2020a.git
+[submodule "R2019b"]
+	path = R2019b
+	url = git@github.com:ypark54/R2019b.git
+[submodule "R2019a"]
+	path = R2019a
+	url = git@github.com:ypark54/R2019a.git
+[submodule "R2018b"]
+	path = R2018b
+	url = git@github.com:ypark54/R2018b.git
+[submodule "R2018a"]
+	path = R2018a
+	url = git@github.com:ypark54/R2018a.git
+[submodule "R2017b"]
+	path = R2017b
+	url = git@github.com:ypark54/R2017b.git
+[submodule "R2017a"]
+	path = R2017a
+	url = git@github.com:ypark54/R2017a.git
+[submodule "R2016b"]
+	path = R2016b
+	url = git@github.com:ypark54/R2016b.git
+[submodule "R2016a"]
+	path = R2016a
+	url = git@github.com:ypark54/R2016a.git
